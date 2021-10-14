@@ -1,4 +1,4 @@
-package com.example.crudwithvaadin;
+package cf.customerfetch.customerfetch;
 
 import static org.mockito.ArgumentMatchers.argThat;
 import static org.mockito.BDDMockito.then;

@@ -4,8 +4,8 @@ plugins {
 	id 'java'
 }
 
-group = 'com.example'
-version = '0.0.1-PROD'
+group = 'cf.customerfetch'
+version = '0.0.1-release'
 sourceCompatibility = '1.8'
 
 repositories {

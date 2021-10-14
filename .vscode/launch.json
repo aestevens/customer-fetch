@@ -2,11 +2,11 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Spring Boot-CrudWithVaadinApplication<customer-fetch>",
+            "name": "Spring Boot-CustomerFetch<customer-fetch>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",
-            "mainClass": "com.example.crudwithvaadin.CrudWithVaadinApplication",
+            "mainClass": "cf.customerfetch.customerfetch.CustomerFetch",
             "projectName": "customer-fetch",
             "args": ""
         }

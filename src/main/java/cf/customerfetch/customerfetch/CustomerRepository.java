@@ -1,4 +1,4 @@
-package com.example.crudwithvaadin;
+package cf.customerfetch.customerfetch;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

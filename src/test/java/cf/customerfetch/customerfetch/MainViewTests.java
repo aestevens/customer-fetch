@@ -1,4 +1,4 @@
-package com.example.crudwithvaadin;
+package cf.customerfetch.customerfetch;
 
 import java.util.ArrayList;
 import java.util.List;

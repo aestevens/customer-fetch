@@ -1,4 +1,4 @@
-package com.example.crudwithvaadin;
+package cf.customerfetch.customerfetch;
 
 import com.vaadin.flow.component.Key;
 import com.vaadin.flow.component.KeyNotifier;
